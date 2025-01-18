@@ -93,7 +93,7 @@ export default {
           holidays: [
             { start: "11/02", end: "13/02" },
             { start: "19/02", end: "21/03" },
-            { start: "27/02", end: "30/03" },
+            { start: "03/04", end: "08/04" },
           ],
         },
         {
