@@ -37,7 +37,6 @@
 }
 /* 1100px */
 @media screen and (max-width:68.75em){
-    
         .search-container {
             display: grid;
             grid-template-columns: 35% 35%;
